@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Checkliste</string>
+    <!-- Resources for Barcode Activity -->
+    <string name="barcode_button_label">Launch Barcode Reader</string>
+    <string name="barcode_result">Result</string>
+    <string name="barcode_button_ok">OK</string>
+    <string name="ok">OK</string>
+
+
+</resources>
